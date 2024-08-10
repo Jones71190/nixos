@@ -1,0 +1,11 @@
+
+hardware/macbook.nix
+server/builder.nix
+server/gitea.nix
+server/grafana.nix
+server/ollama.nix
+server/openweb-ui.nix
+server/prometheus.nix
+server/unifi.nix
+server/zabbix.nix
+.gitattributes
